@@ -35,3 +35,4 @@ GitHub → Jenkins → SonarQube → OWASP → Docker → Trivy → ECR → EKS 
 Sensitive data such as credentials, IPs, and client identifiers
 are intentionally masked or excluded.
 
+
